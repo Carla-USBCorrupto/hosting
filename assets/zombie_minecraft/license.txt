@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zombie minecraft
+* source:	https://sketchfab.com/3d-models/zombie-minecraft-9fb165f3ecf443e1af6ad2cb39f8f161
+* author:	Bernardo  Lucas (https://sketchfab.com/BernardoLucas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zombie minecraft" (https://sketchfab.com/3d-models/zombie-minecraft-9fb165f3ecf443e1af6ad2cb39f8f161) by Bernardo  Lucas (https://sketchfab.com/BernardoLucas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
